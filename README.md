@@ -7,7 +7,7 @@ Load the page and press the "Start Boston Bus Tracking" button at the top left o
 ## Roadmap for Future Improvements
 - Add info for each marker that states bus number
 - Add click buttons for zooming in and out
-- Add ability to chage routes and cities
+- Add ability to chage routes and cities.
 
 ## License
 Copyright 2022 Weston Vanderpool
